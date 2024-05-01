@@ -2,5 +2,5 @@
 
 # stefanysch - stefanysch 
 
-Olá, sou Stéfany e curso Ciências da Computação. 
-Atualmente estou estudando python.! =)
+Olá, sou Stefany e curso Ciências da Computação. 
+Atualmente estou estudando java.! =)
