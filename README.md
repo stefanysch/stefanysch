@@ -2,5 +2,5 @@
 
 # stefanysch - stefanysch 
 
-Olá, sou Stefany e curso Ciências da Computação. 
+Oiiii, me chamo Stefany e curso Ciências da Computação. 
 Atualmente estou estudando java.! =)
