@@ -1,6 +1,6 @@
 <div align="center">
   
-# Stéfany Schmengler de Figueiredo - @stefanysch
+# Stéfany Schmengler - @stefanysch
   
 ### Hello, world! Eu sou Stéfany!
 
