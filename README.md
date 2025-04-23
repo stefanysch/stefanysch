@@ -33,6 +33,6 @@
 ---
 
 <div align="center">
-  <img src="assets/asdasdsa.webp" width="" />
   <p> ୨୧  obrigada pela visita.. ! * >.< ☆☆☆☆☆☆ </p>
+  <img src="assets/asdasdsa.webp" width="" />
 </div>
