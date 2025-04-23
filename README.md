@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <a href="(https://open.spotify.com/user/pmwgb6u7oy0qj399j5kr0onsu?si=1c4656f0a49143e9)" target="_blank">
+  <a href="https://open.spotify.com/user/pmwgb6u7oy0qj399j5kr0onsu?si=66a7b17881d64ec0" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-%231DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=ff9ecb" alt="Spotify Badge"/>
   </a>
 </p>
