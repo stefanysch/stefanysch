@@ -27,12 +27,12 @@
 ---
 
 <p align="center">
-  <img src="assets/aaaadassda.gif"/>
+  <img src="assets/aaaadassda.gif" width="300" height="auto"/>
 </p>
 
 ---
 
 <div align="center">
-  <img src="assets/asdasdsa.webp" width="100" />
+  <img src="assets/asdasdsa.webp" width="" />
   <p> ୨୧  obrigada pela visita.. ! * >.< ☆☆☆☆☆☆ </p>
 </div>
