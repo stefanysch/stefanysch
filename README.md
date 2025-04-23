@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/f81c0e18-d758-4663-8599-c9ec0ee7c9b3.png" alt="div" />
+</p>
 
-<!--
-**stefanysch/stefanysch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">♡ oiiii, eu sou a stefany! ₍ᐢ. ֑ .ᐢ₎ ☆ ♡</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  ୨୧  estudo ciência da computação <br>
+  ୨୧  apaixonada por tecnologia, games, música, alguns desenhos e tudo que é fofo <br>
+  ୨୧  desenvolvendo com muito carinho
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanysch&layout=compact&theme=rose_pine&title_color=ffc0cb&text_color=ffb6c1" />
+</p>
+
+---
+
+<p align="center">
+  <a href="(https://open.spotify.com/user/pmwgb6u7oy0qj399j5kr0onsu?si=1c4656f0a49143e9)" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-%231DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=ff9ecb" alt="Spotify Badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/aaaadassda.gif"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="assets/asdasdsa.webp" width="100" />
+  <p> ୨୧  obrigada pela visita.. ! * >.< ☆☆☆☆☆☆ </p>
+</div>
