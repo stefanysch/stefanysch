@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/f81c0e18-d758-4663-8599-c9ec0ee7c9b3.png" width="200" height="auto" alt="div" />
+  <img src="assets/f81c0e18-d758-4663-8599-c9ec0ee7c9b3.png" width="300" height="auto" alt="div" />
 </p>
 
 <h1 align="center">♡ oiiii, eu sou a stefany! ₍ᐢ. ֑ .ᐢ₎ ☆ ♡</h1>
