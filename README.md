@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">♡ meu nome é stefany! ₍ᐢ. ֑ .ᐢ₎ ☆ ♡</h1>
 
-<!--
-**stefanysch/stefanysch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  ୨୧  ciência da computação <br>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanysch&layout=compact&theme=rose_pine&title_color=ffc0cb&text_color=ffb6c1" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31jy5ri5tijov47iehqehzm7g6qy?si=K7K7qdMaTOGi7MsDy2EEcQ" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-%231DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=ff9ecb" alt="Spotify Badge"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <p> ୨୧  obrigada pela visita.. ! * >.< ☆☆☆☆☆☆ </p>
+  <img src="assets/wtf.jpg" width="" />
+</div>
