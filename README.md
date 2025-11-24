@@ -23,5 +23,5 @@
 
 <div align="center">
   <p> ୨୧  obrigada pela visita.. ! * >.< ☆☆☆☆☆☆ </p>
-  <img src="assets/wtf.jpg" width="" />
+  <img src="../assets/wtf.jpg" width="" />
 </div>
